@@ -10,7 +10,7 @@
 （1）图像采集系统\
 ![image](https://github.com/user-attachments/assets/fb804c3b-5653-43e6-a6ae-8824dc283845)\
 ![image](https://github.com/user-attachments/assets/22fe248c-db30-4bb9-a323-78825a9c0c16)\
-![image](https://github.com/user-attachments/assets/55310923-94ea-4519-be1a-1d1af433969a)\    
+![image](https://github.com/user-attachments/assets/55310923-94ea-4519-be1a-1d1af433969a)\
 （2）张正友标定法\
 ![image](https://github.com/user-attachments/assets/c93e7d45-fbcf-4356-a7c5-0199fcf7086e)\
 标定模版图
