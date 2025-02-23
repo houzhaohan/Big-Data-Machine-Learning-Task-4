@@ -17,13 +17,8 @@
 
 ![image](https://github.com/user-attachments/assets/1aa051b8-2842-43a2-a8d1-a6aaa78ddd64)\
 摄像机拍摄的不同角度的棋盘格图片
-$$
-\begin{pmatrix}
-a & b \\
-c & d
-\end{pmatrix}
-$$
-$K= \begin{bmatrix} 505.4552 & 0 & 0 \\ 0.1921 & 507.391 & 0 \\ 429.491 & 252.5465 & 1 \end{bmatrix}$  
+
+$ K= \begin{bmatrix} 505.4552 & 0 & 0 \\ 0.1921 & 507.391 & 0 \\ 429.491 & 252.5465 & 1 \end{bmatrix} $  
 此次校正误差为0.18pixel属于合理误差，在0-0.5pixel范围以内。
 
 ![image](https://github.com/user-attachments/assets/38153535-1170-4bf7-9323-060fe0750fb4)\
